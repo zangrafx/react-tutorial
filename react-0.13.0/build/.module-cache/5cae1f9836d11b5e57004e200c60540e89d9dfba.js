@@ -1,0 +1,6 @@
+React.render(
+  React.createElement("h1", null, "Helloq, world!"),
+  document.getElementById('example')
+);
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidHJhbnNmb3JtZWQuanMiLCJzb3VyY2VzIjpbbnVsbF0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLEtBQUssQ0FBQyxNQUFNO0VBQ1Ysb0JBQUEsSUFBRyxFQUFBLElBQUMsRUFBQSxnQkFBbUIsQ0FBQTtFQUN2QixRQUFRLENBQUMsY0FBYyxDQUFDLFNBQVMsQ0FBQztDQUNuQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiUmVhY3QucmVuZGVyKFxyXG4gIDxoMT5IZWxsb3EsIHdvcmxkITwvaDE+LFxyXG4gIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdleGFtcGxlJylcclxuKTtcclxuIl19
