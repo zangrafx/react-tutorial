@@ -1,6 +1,0 @@
-React.render(
-  React.createElement("h1", null, "Hello, world!"),
-  document.getElementById('example')
-);;
-
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidHJhbnNmb3JtZWQuanMiLCJzb3VyY2VzIjpbbnVsbF0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLEtBQUssQ0FBQyxNQUFNO0VBQ1Ysb0JBQUEsSUFBRyxFQUFBLElBQUMsRUFBQSxlQUFrQixDQUFBO0VBQ3RCLFFBQVEsQ0FBQyxjQUFjLENBQUMsU0FBUyxDQUFDO0NBQ25DLENBQUMsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIlJlYWN0LnJlbmRlcihcclxuICA8aDE+SGVsbG8sIHdvcmxkITwvaDE+LFxyXG4gIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdleGFtcGxlJylcclxuKTs7XHJcbiJdfQ==
