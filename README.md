@@ -2,15 +2,31 @@
 Just a tutorial from facebook
 
 
-- cli jsxhint command (optional):
+## commands
 
-jsxhint --jsx-only --harmony *
+### debug jsx in console (optional)
 
-- cli jsx watch:
+`jsxhint --jsx-only --harmony *`
 
-jsx -x jsx --harmony --source-map-inline --watch src/ build/
+### watch jsx
 
-- sublime text 3 tools:
+`jsx -x jsx --harmony --source-map-inline --watch src/ build/`
 
-babel
-SublimeLinter-jsxhint
+## tools
+
+### sublime text 3:
+
+- babel
+- SublimeLinter-jsxhint
+
+settings:
+
+```
+"jsxhint": {
+    "@disable": false,
+    "args": [
+        "--harmony"
+    ],
+    "excludes": []
+}
+```
